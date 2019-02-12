@@ -1,0 +1,64 @@
+body{font-family:'sans-serif','Lara';color:#505458;}
+	a{text-decoration:none; color:#777777;}
+	a:hover{text-decoration:none; color:#777777;}
+	.mainArea{background-color:#F7F6F6;}
+/* header css */	
+header{background-color: #D13438;}
+.f_box_panel{border:1px solid #D8D8D8;border-radius: 3px;}	
+
+.f_box_panel h6{font-size:12px;font-family:Lara;letter-spacing:1px; font-weight:bold; padding-top:5px;}
+.first_panel{border:1px dashed #cccccc;padding:15px;}
+.first_panel p{margin-top: 10px;font-size: 11px;font-style:italic;color:#48485A;}
+	
+	
+/* lavel text color */	
+#lebaloffwhite label{color:#777777;font-weight:bold;}	
+
+
+
+
+
+
+/* Invoice demo design css */
+
+#sec1{background:#ffffff;margin-top:20px;}
+.logo img{margin-top:34px; padding-left:35px;width:200px; height:60px;}
+.bill_text{padding-top:12px;padding-bottom:10px;}
+.bill_text b{color:#D13438;font-size:21px;}
+.bill_text p span{color:#555555;font-size:21px;float:right;}
+.bill_text p{margin-bottom:2px;}
+.bill_address h5{font-size: 22px;color:#333333;font-weight:bold;margin-top: 20px;margin-bottom:4px;}
+.bill_address p{font-size: 20px;color:#555555;margin-bottom:5px;}
+/* Total Bill  */
+.total_bill_cl span{float:right;color:#555555; font-size:21px;font-weight:bold;}
+
+
+
+
+
+
+
+/* login css */
+
+#login_images{background-image:url("/images/2.jpg");background-repeat: no-repeat;
+    background-position:center;background-attachment: fixed;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;height:100%;}
+.login_box{margin:9% auto;}
+.login_box h5 {font-size:22px;height: 88px;margin-bottom: 0px;padding-top: 33px;}
+.login_bg{background:#ffffff;padding:18px;}
+.login_bg label{font-weight:bold; font-size:13px; color:#666666;}
+.login_bg input{border-radius:0px;}
+.login_bg button{border-radius:0px; font-size:14px;}
+.login_footer {height:88px;padding-top: 30px;font-size: 17px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
