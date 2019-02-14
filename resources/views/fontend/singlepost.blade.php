@@ -44,20 +44,7 @@ background: #dadada;
 
               <!-- start comment box -->
 
-            <div id="fb-root"></div>
-            <script>(function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=2164535373606775&autoLogAppEvents=1';
-            fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));</script>
-            <script>
-            $(document).ready( function() { $(".fb-comments").attr("data-href", window.location.href.split('?')[0]); });
-            </script>
-
-
-              <div class="fb-comments" data-href="https://tanbir.im/" data-width="&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://tanbir.im/comments&quot; data-width=&quot;100%&quot; data-numposts=&quot;5&quot; data-colorscheme=&quot;light&quot;&gt;&lt;/div&gt;" data-numposts="5"></div>
+                //facebook comment plugin add
 
               <!-- end comment box -->
     </div>
